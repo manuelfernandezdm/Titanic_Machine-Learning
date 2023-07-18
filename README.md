@@ -1,3 +1,4 @@
 # Titanic_Machine-Learning
 
-En este repositorio se encuentra notebook
+El objetivo de este proyecto es predecir cuales pasajeros sobreviven y cuales no utilizando un modelo de Machine Learning.
+
